@@ -6,6 +6,7 @@ using namespace std;
 #define dbg(...)
 #endif
 
-int main() {
+int main()
+{
 
 }
